@@ -64,6 +64,11 @@ cobot-vision-sorting/
     └── system_design.md       # System design documentation
 ```
 
+## Demo Results
+<img width="800" height="500" alt="demo_result_01" src="https://github.com/user-attachments/assets/ad024f91-f633-4c0b-9f88-9b06ae3acda6" />
+<img width="800" height="500" alt="demo_result_03" src="https://github.com/user-attachments/assets/3e644f93-8ca7-4349-be6a-c987e5a2f979" />
+
+
 ## Tech Stack
 
 - **Python 3.10+**
