@@ -1,5 +1,9 @@
 # Cobot Vision Sorting Simulator
 
+**[▶ Live Demo on Streamlit Cloud](https://cobot-vision-sorting.streamlit.app)**
+
+# Cobot Vision Sorting Simulator
+
 A Python-based cobot pick-and-place simulator with OpenCV vision processing, MQTT command publishing, and a Streamlit HMI-style operator dashboard.
 
 ## What This Does
@@ -78,5 +82,4 @@ cobot-vision-sorting/
 - **Mosquitto** — MQTT broker (lightweight, local)
 
 ## Author
-
-Hesham Asim Khan — [Portfolio](https://heshkhvn.github.io/hesham-khan.github.io/)
+Hesham Asim Khan — [Portfolio](https://heshkhvn.github.io/hesham-khan.github.io/) · [LinkedIn](https://linkedin.com/in/hesham-khan) · [Live Demo](https://cobot-vision-sorting.streamlit.app)
